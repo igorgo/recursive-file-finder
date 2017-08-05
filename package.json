@@ -1,0 +1,9 @@
+{
+  "name": "recursive-file-finder",
+  "version": "1.0.0",
+  "description": "node js recursive file finder",
+  "main": "index.js",
+  "repository": "https://github.com/igorgo/recursive-file-finder.git",
+  "author": "igorgo <igorgo16@gmail.com>",
+  "license": "MIT"
+}
